@@ -6,7 +6,7 @@ A scroll-driven 2D interactive animation — inspired by Banksy's iconic street 
 
 ## Inspiration
 
-The interaction concept is inspired by **Banksy's *Girl with Balloon*** (2002). The visual idea of a girl and a balloon was the starting point — the meaning behind this project is its own.
+The interaction concept is inspired by **Banksy's *Girl with Balloon*** (2002). The visual idea of a girl and a balloon was the starting point.
 
 The 8 animation frames were **generated with GPT Image 2** and exported as SVGs. They were then mapped to scroll positions and wired into a custom animation engine built with HTML Canvas.
 
