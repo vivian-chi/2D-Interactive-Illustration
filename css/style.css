@@ -1,0 +1,41 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    /* Hijack scroll */
+    background-color: #FAFAFA;
+    font-family: sans-serif;
+    touch-action: none;
+}
+
+#canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: #333;
+}
+
+#scroll-msg {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 16px;
+    color: #888;
+    opacity: 1;
+    transition: opacity 0.5s;
+    pointer-events: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
