@@ -1,6 +1,9 @@
 # 🎈 Little Girl & Red Balloon
 
 A scroll-driven 2D interactive animation — inspired by Banksy's iconic street art *Girl with Balloon*, built without libraries using HTML Canvas.
+<img width="572" height="326" alt="Screenshot 2026-05-02 at 9 21 45 PM" src="https://github.com/user-attachments/assets/ca98880b-e0c9-4089-9d3f-53adcbd4b926" />
+
+[**View the live demo**](https://vivian-chi.github.io/2D-Interactive-Illustration/)
 
 ---
 
