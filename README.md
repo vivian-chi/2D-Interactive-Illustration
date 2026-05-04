@@ -86,5 +86,6 @@ npx serve .
 ## Credits
 
 - **Concept inspiration** — Banksy, *Girl with Balloon* (2002)
+- **Illustration prompt** — [Aleena Amir](https://x.com/aleenaamiir/status/2049400614195794230) (@aleenaamiir)
 - **Frame generation** — GPT Image 2 (OpenAI)
 - **Animation & code** — built with HTML Canvas and vanilla JS, developed with AI coding assistance (Antigravity)
